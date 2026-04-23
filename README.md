@@ -27,7 +27,9 @@ se usara
 - For each table
 - Get row count
 - Extract all rows 
-
-
-
-
+- Transform the column name to lowercase
+- Convert the data types
+- Create tables in Postgres
+- Load tables into Postgres
+- Run Post data migration checks
+- Prepare validation Report

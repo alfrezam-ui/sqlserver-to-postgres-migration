@@ -24,11 +24,11 @@ se usara
 - Connect to SQL Server (pyodbc)
 - Connect to Postgres (pyscopg2)
 - Audit the data
-- For each table
-- Get row count
-- Extract all rows 
-- Transform the column name to lowercase
-- Convert the data types
+- For each table:
+    - Get row count
+    - Extract all rows 
+    - Transform the column name to lowercase
+    - Convert the data types
 - Create tables in Postgres
 - Load tables into Postgres
 - Run Post data migration checks
